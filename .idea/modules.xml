@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/PermissionX.iml" filepath="$PROJECT_DIR$/.idea/modules/PermissionX.iml" group="PermissionX" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PermissionX/PermissionX-PermissionX.iml" filepath="$PROJECT_DIR$/.idea/modules/PermissionX/PermissionX-PermissionX.iml" group="PermissionX/PermissionX" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="PermissionX/app" />
     </modules>
   </component>
